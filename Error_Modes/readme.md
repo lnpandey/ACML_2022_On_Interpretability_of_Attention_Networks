@@ -1,0 +1,1 @@
+This code generates the Error Modes and their occurance during SDC using FCAM (Focus Classification Attention Models). All the plots will also be generated which are used to illustrate the Error Modes in the Paper.

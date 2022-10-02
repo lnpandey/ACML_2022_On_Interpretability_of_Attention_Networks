@@ -1,0 +1,2 @@
+- Zeroth layer and Last layer averaging on Synthetic data using Entropy, Softmax and sparsemax.
+- After execution of each python script weights of trained model will be saved in save directory (as specicied in path variable )
